@@ -1,0 +1,20 @@
+{
+  "description": " NFT deployed using Sepolia Test Net", 
+  "external_url": "https://alchemy.com", 
+  "image": "https://ipfs.filebase.io/ipfs/QmceaCNgXrzaMEtBbAdrcgxVTxVuitvV2g6e93pSQWoQoQ", 
+  "name": "Barcelona Badge",
+  "attributes": [
+    {
+      "trait_type": "Colour", 
+      "value": "Mixed"
+    }, 
+    {
+      "trait_type": "Coolness", 
+      "value": "A lot!"
+    }, 
+    {
+      "trait_type": "Token Standard", 
+      "value": "ERC721"
+    }
+  ]
+}
